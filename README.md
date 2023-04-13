@@ -156,3 +156,6 @@ https.createServer(
 With that done, your express HTTPS server has been successfully created. Now test the application in your browser by going to https://localhost:4000.
 
 You should still get the same response of “Hello from express server” on your browser.
+## What is SSL?
+
+For more information on SSL, see https://www.ssl.com/faqs/faq-what-is-ssl/
